@@ -33,6 +33,7 @@
 
 #### Прочие элементы:
 * **https://github.com/jerrylow/basictable**
+* **https://github.com/acidb/mobiscroll**
 * https://github.com/markgoodyear/headhesive.js
 * https://github.com/leafo/sticky-kit
 * https://github.com/blueimp/jQuery-File-Upload
@@ -63,6 +64,7 @@
 * **https://github.com/RickStrahl/jquery-watch**
 * **https://github.com/matthewlein/patternizer.js**
 * **https://github.com/js-cookie/js-cookie**
+* https://github.com/moment/moment
 * https://github.com/hpneo/gmaps
 * https://github.com/jordansinger/Hook
 
