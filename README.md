@@ -54,11 +54,13 @@
 * **https://github.com/janpaepke/ScrollMagic**
 * **https://github.com/ultrapasty/jquery-disablescroll**
 * **https://github.com/malihu/malihu-custom-scrollbar-plugin**
+* **https://github.com/flesler/jquery.scrollTo**
 * **https://github.com/markgoodyear/headhesive.js**
 * https://github.com/leafo/sticky-kit
 * https://github.com/Prinzhorn/skrollr
-* https://github.com/flesler/jquery.scrollTo
 * https://github.com/JoelBesada/scrollpath
+* https://github.com/asvd/viewport
+* https://github.com/believer-ufa/clever-scrollbar
 
 #### Лейаут
 * https://github.com/desandro/masonry
