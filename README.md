@@ -20,6 +20,7 @@
 #### Модалки:
 * **https://github.com/dinbror/bpopup**
 * **https://github.com/dolce/iziModal**
+* http://dimsemenov.com/plugins/magnific-popup/
 * https://github.com/fabien-d/alertify.js
 * https://github.com/t4t5/sweetalert
 
@@ -39,6 +40,8 @@
 * **https://github.com/jerrylow/basictable**
 * **https://github.com/acidb/mobiscroll**
 * https://github.com/blueimp/jQuery-File-Upload
+* https://github.com/patrickkunka/mixitup
+* https://github.com/videojs/video.js
 * https://github.com/joeldbirch/superfish
 * https://github.com/wojodesign/simplecart-js
 * https://github.com/kbwood/countdown
@@ -63,6 +66,7 @@
 * https://github.com/believer-ufa/clever-scrollbar
 
 #### Лейаут
+* **https://github.com/liabru/jquery-match-height**
 * https://github.com/desandro/masonry
 * https://github.com/metafizzy/isotope
 * https://github.com/metafizzy/packery
