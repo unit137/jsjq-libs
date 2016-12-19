@@ -18,9 +18,10 @@
 * https://github.com/yairEO/fancyInput
 
 #### Модалки:
-* **https://github.com/dinbror/bpopup**
 * **https://github.com/dolce/iziModal**
-* http://dimsemenov.com/plugins/magnific-popup/
+* **https://github.com/dinbror/bpopup**
+* https://github.com/dimsemenov/Magnific-Popup
+* https://github.com/QassimHassan/YouTube_PopUp
 * https://github.com/fabien-d/alertify.js
 * https://github.com/t4t5/sweetalert
 
@@ -28,16 +29,23 @@
 * **https://github.com/OwlCarousel2/OwlCarousel2**
 * **https://github.com/OwlFonk/OwlCarousel**
 * https://github.com/artpolikarpov/fotorama
+* https://github.com/kenwheeler/slick/
+* https://github.com/stevenwanderski/bxslider-4
 * https://github.com/woocommerce/FlexSlider
 * https://github.com/metafizzy/flickity
 * https://polarnotion.github.io/turntable
+* https://github.com/idiot/unslider
 
 #### Тултипы:
 * **https://github.com/qTip2/qTip2**
 * https://github.com/iamceege/tooltipster
 
-#### Прочие элементы:
+#### Таблицы
 * **https://github.com/jerrylow/basictable**
+* https://johnpolacek.github.io/stacktable.js
+* https://codefog.github.io/restables
+
+#### Прочие элементы:
 * **https://github.com/acidb/mobiscroll**
 * https://github.com/blueimp/jQuery-File-Upload
 * https://github.com/patrickkunka/mixitup
@@ -55,6 +63,7 @@
 #### Скролл:
 * **https://github.com/alvarotrigo/fullPage.js**
 * **https://github.com/janpaepke/ScrollMagic**
+* **https://github.com/fatlinesofcode/jquery.smoothwheel**
 * **https://github.com/ultrapasty/jquery-disablescroll**
 * **https://github.com/malihu/malihu-custom-scrollbar-plugin**
 * **https://github.com/flesler/jquery.scrollTo**
@@ -74,6 +83,7 @@
 
 #### Ховер
 * https://github.com/ciar4n/imagehover.css
+* https://github.com/ariona/hover3d
 
 #### Текст:
 * https://github.com/isagalaev/highlight.js
@@ -84,6 +94,7 @@
 * **https://github.com/RickStrahl/jquery-watch**
 * **https://github.com/matthewlein/patternizer.js**
 * **https://github.com/js-cookie/js-cookie**
+* https://github.com/jordicuenca/image-cover
 * https://github.com/moment/moment
 * https://github.com/hpneo/gmaps
 * https://github.com/jordansinger/Hook
