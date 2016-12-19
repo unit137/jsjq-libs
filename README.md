@@ -29,6 +29,7 @@
 * **https://github.com/OwlCarousel2/OwlCarousel2**
 * **https://github.com/OwlFonk/OwlCarousel**
 * https://github.com/artpolikarpov/fotorama
+* https://github.com/nolimits4web/Swiper/
 * https://github.com/kenwheeler/slick/
 * https://github.com/stevenwanderski/bxslider-4
 * https://github.com/woocommerce/FlexSlider
@@ -95,6 +96,7 @@
 * **https://github.com/matthewlein/patternizer.js**
 * **https://github.com/js-cookie/js-cookie**
 * https://github.com/jordicuenca/image-cover
+* https://github.com/desandro/imagesloaded
 * https://github.com/moment/moment
 * https://github.com/hpneo/gmaps
 * https://github.com/jordansinger/Hook
