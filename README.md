@@ -95,6 +95,7 @@
 * **https://github.com/RickStrahl/jquery-watch**
 * **https://github.com/matthewlein/patternizer.js**
 * **https://github.com/js-cookie/js-cookie**
+* https://github.com/Pagawa/PgwBrowser
 * https://github.com/jordicuenca/image-cover
 * https://github.com/desandro/imagesloaded
 * https://github.com/moment/moment
