@@ -87,7 +87,7 @@
 * https://github.com/ariona/hover3d
 
 #### Текст:
-* https://github.com/isagalaev/highlight.js
+* **://github.com/isagalaev/highlight.js**
 * https://github.com/davatron5000/FitText.js
 * https://github.com/jschr/textillate
 
@@ -95,6 +95,7 @@
 * **https://github.com/RickStrahl/jquery-watch**
 * **https://github.com/matthewlein/patternizer.js**
 * **https://github.com/js-cookie/js-cookie**
+* **http://blog.stevenlevithan.com/archives/date-time-format**
 * https://github.com/mckamey/cssuseragent
 * https://github.com/Pagawa/PgwBrowser
 * https://github.com/jordicuenca/image-cover
