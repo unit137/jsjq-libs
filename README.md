@@ -49,6 +49,7 @@
 #### Прочие элементы:
 * **https://github.com/acidb/mobiscroll**
 * https://github.com/blueimp/jQuery-File-Upload
+* https://github.com/chmln/flatpickr
 * https://github.com/patrickkunka/mixitup
 * https://github.com/videojs/video.js
 * https://github.com/joeldbirch/superfish
