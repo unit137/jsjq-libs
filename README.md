@@ -89,7 +89,10 @@
 
 #### Текст:
 * **://github.com/isagalaev/highlight.js**
-* https://github.com/davatron5000/FitText.js
+* ** https://github.com/peterhry/circletype **
+* ** https://github.com/davatron5000/Lettering.js **
+* ** https://github.com/davatron5000/FitText.js **
+* ** https://github.com/jeffchan/truncate.js **
 * https://github.com/jschr/textillate
 
 #### Прочее:
