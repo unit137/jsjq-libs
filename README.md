@@ -3,6 +3,7 @@
 * **https://github.com/jlmakes/scrollreveal**
 * **https://github.com/craigmdennis/animateCSS**
 * **https://github.com/greensock/GreenSock-JS/**
+* https://github.com/gijsroge/tilt.js
 * https://github.com/matthieua/WOW
 * https://github.com/rstacruz/jquery.transit
 
