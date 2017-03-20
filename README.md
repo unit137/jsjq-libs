@@ -14,14 +14,18 @@
 * **https://github.com/w3co/jcf**
 * **https://github.com/HemantNegi/jquery.sumoselect**
 * **https://github.com/digitalBush/jquery.maskedinput**
+* **https://github.com/leongersen/wnumb/**
 * https://danpalmer.me/jquery-complexify
 * https://github.com/aterrien/jQuery-Knob
 * https://github.com/yairEO/fancyInput
+* https://github.com/mailcheck/mailcheck
+* https://github.com/nosir/cleave.js
+* https://github.com/text-mask/text-mask
 
 #### Модалки:
+* **https://github.com/dimsemenov/Magnific-Popup**
 * **https://github.com/dolce/iziModal**
 * **https://github.com/dinbror/bpopup**
-* https://github.com/dimsemenov/Magnific-Popup
 * https://github.com/QassimHassan/YouTube_PopUp
 * https://github.com/fabien-d/alertify.js
 * https://github.com/t4t5/sweetalert
@@ -49,6 +53,7 @@
 
 #### Прочие элементы:
 * **https://github.com/acidb/mobiscroll**
+* **https://github.com/leongersen/noUiSlider/**
 * https://github.com/blueimp/jQuery-File-Upload
 * https://github.com/chmln/flatpickr
 * https://github.com/patrickkunka/mixitup
@@ -90,11 +95,20 @@
 
 #### Текст:
 * **://github.com/isagalaev/highlight.js**
-* ** https://github.com/peterhry/circletype **
-* ** https://github.com/davatron5000/Lettering.js **
-* ** https://github.com/davatron5000/FitText.js **
-* ** https://github.com/jeffchan/truncate.js **
+* **https://github.com/peterhry/circletype**
+* **https://github.com/davatron5000/Lettering.js**
+* **https://github.com/davatron5000/FitText.js**
+* **https://github.com/jeffchan/truncate.js**
 * https://github.com/jschr/textillate
+
+#### Хелперы:
+* **https://github.com/mckamey/cssuseragent**
+* https://github.com/obihill/restive.js
+
+#### Полифиллы:
+* https://github.com/eqcss/eqcss
+* https://github.com/tomhodgins/aspect-ratio-spec/
+* https://github.com/jordicuenca/image-cover
 
 #### Прочее:
 * **https://github.com/RickStrahl/jquery-watch**
@@ -102,13 +116,13 @@
 * **https://github.com/js-cookie/js-cookie**
 * **http://blog.stevenlevithan.com/archives/date-time-format**
 * **https://github.com/matthewhudson/device.js**
-* **https://github.com/mckamey/cssuseragent**
 * https://github.com/Pagawa/PgwBrowser
-* https://github.com/jordicuenca/image-cover
 * https://github.com/desandro/imagesloaded
 * https://github.com/moment/moment
 * https://github.com/hpneo/gmaps
 * https://github.com/jordansinger/Hook
+* https://github.com/musclesoft/jquery-connections
+* https://github.com/tbem/jquery.line
 
 #### Монстры:
 * https://github.com/d3/d3
