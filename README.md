@@ -103,6 +103,7 @@
 
 #### Хелперы:
 * **https://github.com/mckamey/cssuseragent**
+* https://github.com/matthewhudson/device.js
 * https://github.com/obihill/restive.js
 
 #### Полифиллы:
