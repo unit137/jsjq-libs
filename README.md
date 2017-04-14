@@ -21,6 +21,7 @@
 * https://github.com/mailcheck/mailcheck
 * https://github.com/nosir/cleave.js
 * https://github.com/text-mask/text-mask
+* https://github.com/iserdmi/card-info
 
 #### Модалки:
 * **https://github.com/dimsemenov/Magnific-Popup**
@@ -63,6 +64,7 @@
 * https://github.com/kbwood/countdown
 * https://github.com/martinaglv/jQuery-Countdown
 * https://github.com/chartjs/Chart.js
+* https://github.com/boblemarin/jQuery.eraser
 
 #### Imagemaps:
 * **https://github.com/jamietre/ImageMapster**
@@ -88,6 +90,7 @@
 * https://github.com/metafizzy/isotope
 * https://github.com/metafizzy/packery
 * https://github.com/desandro/draggabilly
+* https://github.com/codekipple/conformity
 
 #### Ховер
 * https://github.com/ciar4n/imagehover.css
@@ -111,12 +114,17 @@
 * https://github.com/tomhodgins/aspect-ratio-spec/
 * https://github.com/jordicuenca/image-cover
 
+#### Для бэка:
+* https://github.com/stympy/faker
+* https://github.com/typicode/json-server
+
 #### Прочее:
 * **https://github.com/RickStrahl/jquery-watch**
 * **https://github.com/matthewlein/patternizer.js**
 * **https://github.com/js-cookie/js-cookie**
 * **http://blog.stevenlevithan.com/archives/date-time-format**
 * **https://github.com/matthewhudson/device.js**
+* **https://github.com/jsplumb/jsplumb/**
 * https://github.com/Pagawa/PgwBrowser
 * https://github.com/desandro/imagesloaded
 * https://github.com/moment/moment
@@ -124,6 +132,7 @@
 * https://github.com/jordansinger/Hook
 * https://github.com/musclesoft/jquery-connections
 * https://github.com/tbem/jquery.line
+* https://github.com/luruke/barba.js
 
 #### Монстры:
 * https://github.com/d3/d3
@@ -138,6 +147,9 @@
 * **http://foundation.zurb.com**
 * http://materializecss.com
 * http://picturepan2.github.io/spectre/
+
+#### Vue
+* https://github.com/vue-bulma/vue-admin
 
 #### Ресурсы:
 * http://www.unheap.com
