@@ -83,6 +83,7 @@
 * https://github.com/JoelBesada/scrollpath
 * https://github.com/asvd/viewport
 * https://github.com/believer-ufa/clever-scrollbar
+* http://matthew.wagerfield.com/parallax/*
 
 #### Лейаут
 * **https://github.com/liabru/jquery-match-height**
