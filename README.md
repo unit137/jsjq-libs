@@ -65,6 +65,7 @@
 * https://github.com/martinaglv/jQuery-Countdown
 * https://github.com/chartjs/Chart.js
 * https://github.com/boblemarin/jQuery.eraser
+* https://github.com/fullcalendar/fullcalendar
 
 #### Imagemaps:
 * **https://github.com/jamietre/ImageMapster**
