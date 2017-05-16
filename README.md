@@ -32,11 +32,11 @@
 * https://github.com/t4t5/sweetalert
 
 #### Слайдеры/Галереи:
+* *** https://github.com/kenwheeler/slick/**
 * **https://github.com/OwlCarousel2/OwlCarousel2**
 * **https://github.com/OwlFonk/OwlCarousel**
 * https://github.com/artpolikarpov/fotorama
 * https://github.com/nolimits4web/Swiper/
-* https://github.com/kenwheeler/slick/
 * https://github.com/stevenwanderski/bxslider-4
 * https://github.com/woocommerce/FlexSlider
 * https://github.com/metafizzy/flickity
@@ -55,7 +55,9 @@
 #### Прочие элементы:
 * **https://github.com/acidb/mobiscroll**
 * **https://github.com/leongersen/noUiSlider/**
+* **https://github.com/t1m0n/air-datepicker**
 * https://github.com/blueimp/jQuery-File-Upload
+* https://github.com/sergiodlopes/jquery-flexdatalist
 * https://github.com/chmln/flatpickr
 * https://github.com/patrickkunka/mixitup
 * https://github.com/videojs/video.js
@@ -66,6 +68,7 @@
 * https://github.com/chartjs/Chart.js
 * https://github.com/boblemarin/jQuery.eraser
 * https://github.com/fullcalendar/fullcalendar
+* https://github.com/nazar-pc/PickMeUp
 
 #### Imagemaps:
 * **https://github.com/jamietre/ImageMapster**
@@ -87,12 +90,12 @@
 * http://matthew.wagerfield.com/parallax/*
 
 #### Лейаут
-* **https://github.com/liabru/jquery-match-height**
 * https://github.com/desandro/masonry
 * https://github.com/metafizzy/isotope
 * https://github.com/metafizzy/packery
 * https://github.com/desandro/draggabilly
 * https://github.com/codekipple/conformity
+* * https://github.com/liabru/jquery-match-height
 
 #### Ховер
 * https://github.com/ciar4n/imagehover.css
