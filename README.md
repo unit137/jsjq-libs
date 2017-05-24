@@ -25,6 +25,7 @@
 
 #### Модалки:
 * **https://github.com/dimsemenov/Magnific-Popup**
+* **https://github.com/limonte/sweetalert2**
 * **https://github.com/dolce/iziModal**
 * **https://github.com/dinbror/bpopup**
 * https://github.com/QassimHassan/YouTube_PopUp
@@ -87,7 +88,7 @@
 * https://github.com/JoelBesada/scrollpath
 * https://github.com/asvd/viewport
 * https://github.com/believer-ufa/clever-scrollbar
-* http://matthew.wagerfield.com/parallax/*
+* https://github.com/wagerfield/parallax
 
 #### Лейаут
 * https://github.com/desandro/masonry
