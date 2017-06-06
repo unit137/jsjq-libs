@@ -3,6 +3,7 @@
 * **https://github.com/jlmakes/scrollreveal**
 * **https://github.com/craigmdennis/animateCSS**
 * **https://github.com/greensock/GreenSock-JS/**
+* https://github.com/HubSpot/odometer
 * https://github.com/gijsroge/tilt.js
 * https://github.com/matthieua/WOW
 * https://github.com/rstacruz/jquery.transit
@@ -15,6 +16,7 @@
 * **https://github.com/HemantNegi/jquery.sumoselect**
 * **https://github.com/digitalBush/jquery.maskedinput**
 * **https://github.com/leongersen/wnumb/**
+* **https://github.com/KevinSheedy/jquery.alphanum**
 * https://danpalmer.me/jquery-complexify
 * https://github.com/aterrien/jQuery-Knob
 * https://github.com/yairEO/fancyInput
