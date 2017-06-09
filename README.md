@@ -1,4 +1,4 @@
-#### Анимация:
+#### Animation:
 * **https://github.com/adobe-webplatform/Snap.svg**
 * **https://github.com/jlmakes/scrollreveal**
 * **https://github.com/craigmdennis/animateCSS**
@@ -8,7 +8,7 @@
 * https://github.com/matthieua/WOW
 * https://github.com/rstacruz/jquery.transit
 
-#### Формы:
+#### Forms/Inputs:
 * **https://github.com/jzaefferer/jquery-validation**
 * **https://github.com/rstaib/jquery-steps**
 * **https://github.com/malsup/form**
@@ -28,7 +28,7 @@
 * https://github.com/uNmAnNeR/imaskjs/releases
 * https://github.com/iserdmi/card-info
 
-#### Модалки:
+#### Popups/Modals/Alerts:
 * **https://github.com/dimsemenov/Magnific-Popup**
 * **https://github.com/limonte/sweetalert2**
 * **https://github.com/dolce/iziModal**
@@ -37,7 +37,7 @@
 * https://github.com/fabien-d/alertify.js
 * https://github.com/t4t5/sweetalert
 
-#### Слайдеры/Галереи:
+#### Sliders/Carousels/Galleries:
 * *** https://github.com/kenwheeler/slick/**
 * **https://github.com/OwlCarousel2/OwlCarousel2**
 * **https://github.com/OwlFonk/OwlCarousel**
@@ -49,16 +49,16 @@
 * https://polarnotion.github.io/turntable
 * https://github.com/idiot/unslider
 
-#### Тултипы:
+#### Tooltips:
 * **https://github.com/qTip2/qTip2**
 * https://github.com/iamceege/tooltipster
 
-#### Таблицы
+#### Tables
 * **https://github.com/jerrylow/basictable**
 * https://johnpolacek.github.io/stacktable.js
 * https://codefog.github.io/restables
 
-#### Прочие элементы:
+#### Others elements:
 * **https://github.com/acidb/mobiscroll**
 * **https://github.com/leongersen/noUiSlider/**
 * **https://github.com/t1m0n/air-datepicker**
@@ -80,7 +80,7 @@
 * **https://github.com/jamietre/ImageMapster**
 * **https://github.com/davidjbradshaw/image-map-resizer**
 
-#### Скролл:
+#### Scroll:
 * **https://github.com/alvarotrigo/fullPage.js**
 * **https://github.com/janpaepke/ScrollMagic**
 * **https://github.com/fatlinesofcode/jquery.smoothwheel**
@@ -96,7 +96,7 @@
 * https://github.com/believer-ufa/clever-scrollbar
 * https://github.com/wagerfield/parallax
 
-#### Лейаут
+#### Layout
 * https://github.com/desandro/masonry
 * https://github.com/metafizzy/isotope
 * https://github.com/metafizzy/packery
@@ -104,11 +104,11 @@
 * https://github.com/codekipple/conformity
 * * https://github.com/liabru/jquery-match-height
 
-#### Ховер
+#### Hover
 * https://github.com/ciar4n/imagehover.css
 * https://github.com/ariona/hover3d
 
-#### Текст:
+#### Text:
 * **://github.com/isagalaev/highlight.js**
 * **https://github.com/peterhry/circletype**
 * **https://github.com/davatron5000/Lettering.js**
@@ -116,21 +116,21 @@
 * **https://github.com/jeffchan/truncate.js**
 * https://github.com/jschr/textillate
 
-#### Хелперы:
+#### Utilities:
 * **https://github.com/mckamey/cssuseragent**
 * https://github.com/matthewhudson/device.js
 * https://github.com/obihill/restive.js
 
-#### Полифиллы:
+#### Polyfills:
 * https://github.com/eqcss/eqcss
 * https://github.com/tomhodgins/aspect-ratio-spec/
 * https://github.com/jordicuenca/image-cover
 
-#### Для бэка:
+#### Backend:
 * https://github.com/stympy/faker
 * https://github.com/typicode/json-server
 
-#### Прочее:
+#### Other:
 * **https://github.com/RickStrahl/jquery-watch**
 * **https://github.com/matthewlein/patternizer.js**
 * **https://github.com/js-cookie/js-cookie**
@@ -146,22 +146,23 @@
 * https://github.com/tbem/jquery.line
 * https://github.com/luruke/barba.js
 
-#### Монстры:
+#### Monsters:
 * https://github.com/d3/d3
 * https://github.com/mrdoob/three.js
 
-#### Фиксы:
+#### Fixes:
 * **https://github.com/furf/jquery-ui-touch-punch**
 * **https://github.com/ftlabs/fastclick**
 
-#### HTML/CSS фреймворки
+#### HTML/CSS frameworks
 * **http://getbootstrap.com**
 * **http://foundation.zurb.com**
 * http://materializecss.com
 * http://picturepan2.github.io/spectre/
 
 #### Vue
+* https://github.com/vuejs/awesome-vue
 * https://github.com/vue-bulma/vue-admin
 
-#### Ресурсы:
+#### Resources:
 * http://www.unheap.com
