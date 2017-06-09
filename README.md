@@ -14,6 +14,7 @@
 * **https://github.com/malsup/form**
 * **https://github.com/w3co/jcf**
 * **https://github.com/HemantNegi/jquery.sumoselect**
+* **https://github.com/RobinHerbots/Inputmask**
 * **https://github.com/digitalBush/jquery.maskedinput**
 * **https://github.com/leongersen/wnumb/**
 * **https://github.com/KevinSheedy/jquery.alphanum**
@@ -21,8 +22,10 @@
 * https://github.com/aterrien/jQuery-Knob
 * https://github.com/yairEO/fancyInput
 * https://github.com/mailcheck/mailcheck
+* https://github.com/digitalBush/jquery.maskedinput
 * https://github.com/nosir/cleave.js
 * https://github.com/text-mask/text-mask
+* https://github.com/uNmAnNeR/imaskjs/releases
 * https://github.com/iserdmi/card-info
 
 #### Модалки:
@@ -85,6 +88,7 @@
 * **https://github.com/malihu/malihu-custom-scrollbar-plugin**
 * **https://github.com/flesler/jquery.scrollTo**
 * **https://github.com/markgoodyear/headhesive.js**
+* https://github.com/asvd/dragscroll
 * https://github.com/leafo/sticky-kit
 * https://github.com/Prinzhorn/skrollr
 * https://github.com/JoelBesada/scrollpath
