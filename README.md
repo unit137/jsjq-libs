@@ -38,7 +38,7 @@
 * https://github.com/t4t5/sweetalert
 
 #### Sliders/Carousels/Galleries:
-* *** https://github.com/kenwheeler/slick/**
+* ** https://github.com/kenwheeler/slick/**
 * **https://github.com/OwlCarousel2/OwlCarousel2**
 * **https://github.com/OwlFonk/OwlCarousel**
 * https://github.com/artpolikarpov/fotorama
@@ -62,6 +62,7 @@
 * **https://github.com/acidb/mobiscroll**
 * **https://github.com/leongersen/noUiSlider/**
 * **https://github.com/t1m0n/air-datepicker**
+* **https://github.com/VPenkov/okayNav**
 * https://github.com/blueimp/jQuery-File-Upload
 * https://github.com/sergiodlopes/jquery-flexdatalist
 * https://github.com/chmln/flatpickr
@@ -118,6 +119,7 @@
 
 #### Utilities:
 * **https://github.com/mckamey/cssuseragent**
+* **https://github.com/lokesh/color-thief**
 * https://github.com/matthewhudson/device.js
 * https://github.com/obihill/restive.js
 
