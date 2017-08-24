@@ -120,6 +120,7 @@
 #### Utilities:
 * **https://github.com/mckamey/cssuseragent**
 * **https://github.com/lokesh/color-thief**
+* **https://github.com/davidjbradshaw/iframe-resizer**
 * https://github.com/matthewhudson/device.js
 * https://github.com/obihill/restive.js
 
@@ -165,6 +166,10 @@
 #### Vue
 * https://github.com/vuejs/awesome-vue
 * https://github.com/vue-bulma/vue-admin
+* https://github.com/rohitkrai03/vue-starter
+* https://github.com/baianat/vee-validate
+* https://github.com/monterail/vuelidate
+* https://github.com/nuxt/nuxt.js
 
 #### Resources:
 * http://www.unheap.com
