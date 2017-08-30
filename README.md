@@ -110,7 +110,7 @@
 * https://github.com/ariona/hover3d
 
 #### Text:
-* **://github.com/isagalaev/highlight.js**
+* **https://github.com/isagalaev/highlight.js**
 * **https://github.com/peterhry/circletype**
 * **https://github.com/davatron5000/Lettering.js**
 * **https://github.com/davatron5000/FitText.js**
@@ -167,8 +167,9 @@
 * https://github.com/vuejs/awesome-vue
 * https://github.com/vue-bulma/vue-admin
 * https://github.com/rohitkrai03/vue-starter
-* https://github.com/baianat/vee-validate
 * https://github.com/monterail/vuelidate
+* https://github.com/baianat/vee-validate
+* https://github.com/fergaldoyle/vue-form
 * https://github.com/nuxt/nuxt.js
 
 #### Resources:
