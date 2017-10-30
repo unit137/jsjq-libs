@@ -171,6 +171,8 @@
 * https://github.com/baianat/vee-validate
 * https://github.com/fergaldoyle/vue-form
 * https://github.com/nuxt/nuxt.js
+* https://github.com/ElemeFE/element
+* https://github.com/vuetifyjs/vuetify
 
 #### Resources:
 * http://www.unheap.com
