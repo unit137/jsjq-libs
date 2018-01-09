@@ -13,6 +13,7 @@
 * **https://github.com/rstaib/jquery-steps**
 * **https://github.com/malsup/form**
 * **https://github.com/w3co/jcf**
+* **https://github.com/selectize/selectize.js/**
 * **https://github.com/HemantNegi/jquery.sumoselect**
 * **https://github.com/RobinHerbots/Inputmask**
 * **https://github.com/digitalBush/jquery.maskedinput**
@@ -114,6 +115,8 @@
 * **https://github.com/peterhry/circletype**
 * **https://github.com/davatron5000/Lettering.js**
 * **https://github.com/davatron5000/FitText.js**
+* **https://github.com/FrDH/jQuery.dotdotdot**
+* **https://github.com/julmot/mark.js/**
 * **https://github.com/jeffchan/truncate.js**
 * https://github.com/jschr/textillate
 
