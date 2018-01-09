@@ -39,7 +39,7 @@
 * https://github.com/t4t5/sweetalert
 
 #### Sliders/Carousels/Galleries:
-* ** https://github.com/kenwheeler/slick/**
+* **https://github.com/kenwheeler/slick/**
 * **https://github.com/OwlCarousel2/OwlCarousel2**
 * **https://github.com/OwlFonk/OwlCarousel**
 * https://github.com/artpolikarpov/fotorama
@@ -104,7 +104,7 @@
 * https://github.com/metafizzy/packery
 * https://github.com/desandro/draggabilly
 * https://github.com/codekipple/conformity
-* * https://github.com/liabru/jquery-match-height
+* https://github.com/liabru/jquery-match-height
 
 #### Hover
 * https://github.com/ciar4n/imagehover.css
