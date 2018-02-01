@@ -105,6 +105,7 @@
 * https://github.com/desandro/draggabilly
 * https://github.com/codekipple/conformity
 * https://github.com/liabru/jquery-match-height
+* https://github.com/KaySchneider/pinbox
 
 #### Hover
 * https://github.com/ciar4n/imagehover.css
