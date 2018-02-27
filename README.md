@@ -125,6 +125,7 @@
 * **https://github.com/mckamey/cssuseragent**
 * **https://github.com/lokesh/color-thief**
 * **https://github.com/davidjbradshaw/iframe-resizer**
+* **https://github.com/cowboy/jquery-throttle-debounce**
 * https://github.com/matthewhudson/device.js
 * https://github.com/obihill/restive.js
 
