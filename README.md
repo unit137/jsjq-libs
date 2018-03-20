@@ -77,6 +77,7 @@
 * https://github.com/boblemarin/jQuery.eraser
 * https://github.com/fullcalendar/fullcalendar
 * https://github.com/nazar-pc/PickMeUp
+* https://github.com/DataTables/DataTables
 
 #### Imagemaps:
 * **https://github.com/jamietre/ImageMapster**
